@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Demir</h1>
 <h3 align="center">Student in Izmir Bakircay University</h3>
 
-- 💬 Ask me about **C#,Java,Python,C++,JS,CSS,HTML**
+- 💬 Ask me about **C#,Java,Python,C++,JS,CSS**
 
 - 📫 How to reach me **demirmehmet226648@gmail.com**
 
