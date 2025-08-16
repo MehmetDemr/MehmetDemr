@@ -2,7 +2,7 @@
 <h3 align="center">Student in Izmir Bakircay University</h3>
 
 - 📫 How to reach me **demirmehmet226648@gmail.com**
-- 
+
 <p align="left">
 </p>
 
