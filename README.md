@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 **Backend**
 
