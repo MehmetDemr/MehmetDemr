@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Demir</h1>
-<h3 align="center">Full-Stack Developer · .NET · Node.js · React</h3>
+<h3 align="center">Full-Stack Developer · .NET · Node.js · Express.js · Nest.js · React · Next.js </h3>
 <p align="center">
  <a href="https://mail.google.com/mail/?view=cm&to=demirmehmet226648@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
