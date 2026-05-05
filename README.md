@@ -17,7 +17,7 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -46,6 +46,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
@@ -69,6 +71,19 @@
 
 - 🏛️ **İzmir Bakırçay University** — 2022–2026
 - 🏫 **Fatma Saygın Anadolu High School** — 2017–2021
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Link |
+|---|---|---|
+| **Dressify** | Full-Stack E-Commerce Platform | [Visit Website](https://www.dressify-shop.com) |
+| **Blogy** | Full-Stack Project with AI-Powered Content Classification System | [Visit Website](https://blogy-production-b6d8.up.railway.app) |
+| **Tickio Web** | Full-Stack Productivity Platform | [Visit Website](https://tickio-website.vercel.app) |
+| **Tickio Mobile** | Productivity and Task Tracking Application | [View on GitHub](https://github.com/MehmetDemr) |
+| **Wordplay** | A web-based word game application | [Visit Website](https://wordplay-site.vercel.app) |
+| **Mehmet Demir Portfolio** | Personal Website | [Visit Website](https://cengmehmetdemir.com/) |
 
 ---
 
