@@ -79,7 +79,7 @@
 | Project | Description | Link |
 |---|---|---|
 | **Dressify** | Full-Stack E-Commerce Platform | [Visit Website](https://www.dressify-shop.com) |
-| **Blogy** | Full-Stack Project with AI-Powered Content Classification System | [Visit Website](https://blogy-production-b6d8.up.railway.app) |
+| **Blogy** | Full-Stack Project with AI-Powered Content Classification System | [Visit Website](https://blogy-ee8w.onrender.com) |
 | **Tickio Web** | Full-Stack Productivity Platform | [Visit Website](https://tickio-website.vercel.app) |
 | **Tickio Mobile** | Productivity and Task Tracking Application | [View on GitHub](https://github.com/MehmetDemr) |
 | **Wordplay** | A web-based word game application | [Visit Website](https://wordplay-site.vercel.app) |
