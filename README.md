@@ -60,7 +60,7 @@
 
 | Period | Role | Company |
 |---|---|---|
-| Feb 2026 – Present | Full-Stack Developer (Full Time) | Level End Yazılım A.Ş |
+| Feb 2026 – May 2026 | Full-Stack Developer (Full Time) | Level End Yazılım A.Ş |
 | Aug 2025 – Feb 2026 | Full-Stack Developer (Part Time) | Level End Yazılım A.Ş |
 | Jun 2025 – Jul 2025 | Full-Stack Developer Intern | Level End Yazılım A.Ş |
 | Jul 2024 – Jun 2025 | Full-Stack Developer Intern | Ottopus A.Ş |
