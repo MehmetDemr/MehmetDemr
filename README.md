@@ -91,5 +91,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetDemr&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-25-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Total%20Repositories-26-blue?style=for-the-badge&logo=github"/>
 </p>
